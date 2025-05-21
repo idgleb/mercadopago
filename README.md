@@ -1,4 +1,5 @@
-# Mercado Pago QR 🏻
+# Mercado Pago QR <img src="https://github.com/user-attachments/assets/9716cd73-233c-4967-9447-03cb1f2849c3" width="100" />
+
 
 **🌐 Integración con la API de Mercado Pago para pagos QR en puntos de venta.**
 
