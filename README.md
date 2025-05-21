@@ -1,4 +1,4 @@
-# Mercado Pago QR 💳
+# Mercado Pago QR 🏻
 
 **🌐 Integración con la API de Mercado Pago para pagos QR en puntos de venta.**
 
