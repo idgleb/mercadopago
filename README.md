@@ -99,8 +99,8 @@ Licencia **[MIT](LICENSE)** 📝.
 
 ## 📬 Contacto
 
-- 🐞 Issues: [GitHub](https://github.com/idgleb/mercadopago/issues)
-- ✉️ Email: idgleb@example.com
+- 🔗 Issues: [linkedin](https://www.linkedin.com/in/gleb-ursol-855725326/)
+- ✉️ Email: argentinagleb73@gmail.com
 
 ---
 
